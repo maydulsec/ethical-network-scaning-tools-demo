@@ -1,2 +1,9 @@
-# ethical-network-scaning-tools-demo
-Safe, localhost-only network scanning scripts for learning and practice in legal environments.
+ethical-network scaning-tools-demo/
+├─ .github/workflows/python-ci.yml
+├─ LICENSE
+├─ README.md
+├─ profile_README.md
+├─ src/
+│  └─ localhost_port_checker.py
+├─ requirements.txt
+└─ CONTRIBUTING.md
